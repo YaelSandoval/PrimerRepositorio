@@ -8,9 +8,10 @@
 body{
     background-color: aliceblue;
     color: rgb(9, 9, 104);
-    max-width: 1400px;
+    max-width: 1000px;
     min-width: 350px;
     padding: 50px;
+    margin: 0 auto;
 
 }
 
