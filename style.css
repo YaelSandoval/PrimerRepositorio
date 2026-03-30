@@ -5,5 +5,12 @@
 body{
     background-color: aliceblue;
     color: rgb(9, 9, 104);
+
+}
+
+h1{
+    text-align: center;
+    font-size: 2em;
+    border-bottom: 2px rebeccapurple;
 }
 
